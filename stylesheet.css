@@ -1,0 +1,128 @@
+@media (max-width: 800px) {
+
+    body {
+        font-family: "Helvetica Neue", Verdana, sans-serif;
+        font-style: normal;
+        color: #FFFFFF;
+        font-weight: 100;
+    }
+
+
+    i {
+        font-style: normal;
+    }
+
+    #click {
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 1em;
+        text-align: center;
+        width: 100%;
+        -webkit-animation-duration:1s;
+        animation-duration:1s;
+    }
+
+
+    #container {
+        text-align: center;
+        font-size: 2em;
+        width: 99%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 10%;
+    }
+
+    #footer {
+        position: absolute;
+        bottom: 0;
+        font-size: 0.8em;
+        font-weight: bold;
+        text-align: center;
+        width: 100%;
+    }
+
+    a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    a:visited {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        cursor: pointer;
+    }
+
+}
+
+@media (min-width: 800px) {
+
+    body {
+        font-family: "Helvetica Neue", Verdana, sans-serif;
+        font-style: normal;
+        color: #FFFFFF;
+        font-weight: 100;
+    }
+
+    i {
+        font-style: normal;
+    }
+
+    #click {
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 1em;
+        text-align: center;
+        width: 10%;
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+    }
+
+    #container {
+        text-align: center;
+        font-size: 3em;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 15%;
+    }
+
+    #footer {
+        position: absolute;
+        bottom: 0;
+        font-size: 1em;
+        font-weight: bold;
+        text-align: center;
+        width: 100%;
+    }
+
+    a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    a:visited {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    a:hover {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+
+    p {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        cursor: pointer;
+    }
+}
